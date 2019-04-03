@@ -20,7 +20,7 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
-function deviceInfo() {
+function myInfo() {
 	info = "First Name: Dominik \n Sec Name: D. \n Number 192615";
 	navigator.notification.alert(info);
 }

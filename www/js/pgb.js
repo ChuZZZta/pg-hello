@@ -22,4 +22,5 @@ function deviceInfo() {
 }
 function deviceInfo() {
 	info = "First Name: Dominik \n Sec Name: D. \n Number 192615";
+	navigator.notification.alert(info);
 }

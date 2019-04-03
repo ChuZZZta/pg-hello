@@ -4,8 +4,8 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>BusinessCard</name>
-    <description>My personal info xd</description>
+    <name>Turbo Network Checker 200001pl</name>
+    <description>Super checkerxd</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
@@ -13,5 +13,6 @@
 	
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-
+	<plugin name="cordova-plugin-network-information" spec="2.0.1" />
+	
 </widget>
